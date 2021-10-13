@@ -1,5 +1,6 @@
-# vixiza.js
+# Vixiza.js
 
 npm install
 
+## Usage 
 node profile.js $regno $pswd
